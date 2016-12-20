@@ -1,0 +1,14 @@
+com\begear\model\CorsoH.class
+com\begear\controller\restcontroller\ImgRestController.class
+com\begear\hybernate1\HibernateUtil.class
+com\begear\model\Corso.class
+com\begear\controller\restcontroller\StudentRestController.class
+com\begear\dao\DaoImplH.class
+com\begear\hybernate1\Student.class
+com\begear\dao\DaoImpl.class
+com\begear\controller\SpringCrudController.class
+com\begear\utility\HibernateUtil.class
+com\begear\dao\DaoH.class
+com\begear\dao\Dao.class
+com\begear\model\StudenteH.class
+com\begear\model\Studente.class
